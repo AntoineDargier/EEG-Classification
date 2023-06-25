@@ -1,7 +1,7 @@
 # Sleep phases classification using electroencephalograms (EEGs) and accelerometers
 
 ### Goal
-Classification of sleep phases using EEGs and accelerometers data. 
+Implementation of ML and DL methods for the classification of sleep phases using EEGs and accelerometers data. 
 
 ### Language
 ```Python```
@@ -21,6 +21,7 @@ Classification of sleep phases using EEGs and accelerometers data.
 * ```scipy```
 * ```scikit-learn```
 * ```pyeeg```
+* ```pytorch```
 
 ### Conclusion
 After fine-tuning hyperparameters, I reached $71\%$ of f1-macro, which was the metric chosen, with an XGBoost model. The CNN model performed fairly similarly, or slightly worse.
