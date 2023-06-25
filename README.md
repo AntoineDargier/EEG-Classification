@@ -29,4 +29,4 @@ Implementation of ML and DL methods for the classification of sleep phases using
 * ```pytorch```
 
 ### Conclusion
-After fine-tuning hyperparameters, I reached $71\%$ of f1-macro, which was the metric chosen, with an XGBoost model. The CNN model performed fairly similarly, or slightly worse.
+After fine-tuning hyperparameters, I reached 71% of f1-macro, which was the metric chosen, with an XGBoost model. The CNN model performed fairly similarly, or slightly worse.
