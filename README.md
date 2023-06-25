@@ -13,6 +13,11 @@ Implementation of ML and DL methods for the classification of sleep phases using
 4. Model
 5. Conclusion
 
+### Features
+* statistical features: mean, median, standard deviation, skewness, kurtosis
+* signal analysis features: zero-crossing rate, magnitude maximum, Hjorth coefficient (mobility, complexity), energy, power by frequency bands, Petrosian fractal dimension, Katz fractal dimension
+* non-used features: Hjorth activity, Hurst exponents, Spectral entropy, variance, wavelet coefficient, slope mean, slope variance
+
 ### Librairies
 * ```librosa```
 * ```numpy```
