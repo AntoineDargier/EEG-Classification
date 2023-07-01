@@ -1,7 +1,7 @@
 # Sleep phases classification using electroencephalograms (EEGs) and accelerometers
 
 ### Goal
-Implementation of ML and DL methods for the classification of sleep phases using EEGs and accelerometers data. 
+Implementing ML and DL methods for classifying sleep phases using EEGs and accelerometer data. 
 
 ### Language
 ```Python```
@@ -18,7 +18,7 @@ Implementation of ML and DL methods for the classification of sleep phases using
 * signal analysis features: zero-crossing rate, magnitude maximum, Hjorth coefficient (mobility, complexity), energy, power by frequency bands, Petrosian fractal dimension, Katz fractal dimension
 * non-used features: Hjorth activity, Hurst exponents, Spectral entropy, variance, wavelet coefficient, slope mean, slope variance
 
-### Librairies
+### Libraries
 * ```librosa```
 * ```numpy```
 * ```pandas```
